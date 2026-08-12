@@ -17,6 +17,7 @@ Python 프로그램의 기본 흐름을 이해하기 위한 기초 학습입니�
 - Condition
 - Loop
 - Function
+- Basic Module Usage
 
 **Focus**
 - 데이터를 입력받고 처리한 뒤 결과를 출력하는 기본 흐름 이해
