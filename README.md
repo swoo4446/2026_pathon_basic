@@ -3,6 +3,23 @@
 Python 기초 문법부터 코드 구조화, 객체지향 프로그래밍까지 수업에서 학습한 내용을 주제별로 정리한 저장소입니다.
 
 ---
+## Repository Structure
+
+```text
+python-fundamentals/
+│
+├── README.md
+├── 01.input_output.ipynb
+├── 02_module_package_library.ipynb
+├── 03_class_object_oriented_programming_exception_handling.ipynb
+│
+├── calc.py
+│
+└── my_package/
+    ├── __init__.py
+    ├── calculator.py
+    └── message.py
+```
 
 ## Overview
 
@@ -66,24 +83,6 @@ Python 프로그램의 기본 흐름을 이해하기 위한 기초 학습입니�
 - 예외 상황을 고려한 안정적인 코드 작성
 
 ---
-
-## Repository Structure
-
-```text
-python-fundamentals/
-│
-├── README.md
-├── 01.input_output.ipynb
-├── 02_module_package_library.ipynb
-├── 03_class_object_oriented_programming_exception_handling.ipynb
-│
-├── calc.py
-│
-└── my_package/
-    ├── __init__.py
-    ├── calculator.py
-    └── message.py
-```
 
 ## Learning Flow
 
